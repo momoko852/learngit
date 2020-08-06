@@ -1,7 +1,0 @@
-test
-12342
-what
-大白菜
-test
-add file
-test checkout
