@@ -5,3 +5,5 @@ what
 test
 add file
 test checkout
+
+test remote
